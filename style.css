@@ -2047,13 +2047,13 @@ select.mobile-device {
 
 .contact_form .form-control {
     background-color: #333333;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
     color: #bcbcbc;
     font-size: 16px;
     outline: 0 none;
-    padding: 10px 25px;
+    padding: 10px 30px;
     height: 55px;
     resize: none;
     box-shadow: none !important;
@@ -2376,7 +2376,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2385,7 +2385,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
